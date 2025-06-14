@@ -1,2 +1,2 @@
 # 3.js_Projects
-![demo][demo/earth_planet.gif]
+![Demo](demo/earth_planet.gif)
